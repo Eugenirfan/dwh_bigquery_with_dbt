@@ -1,4 +1,15 @@
-Welcome to your new dbt project!
+### Dimensional Model building with BigQuery and dbt.
+
+
+### Dataset - https://github.com/dalers/mywind
+
+### Requirements:
+* Sales Overview
+* Sales Agent Tracking
+* Product Inventory
+* Customer Reporting
+
+
 
 
 
